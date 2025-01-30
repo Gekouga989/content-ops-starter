@@ -198,6 +198,10 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    badge:
+      type: Badge
+      label: Ella
+      color: text-primary
   - type: FeaturedPostsSection
     posts:
       - content/pages/blog/case-study-1.md
